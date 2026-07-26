@@ -703,7 +703,7 @@ GameObject:
   - component: {fileID: 2714497759568292825}
   - component: {fileID: 7401751991573398765}
   m_Layer: 0
-  m_Name: GameFramework 1
+  m_Name: GameFramework
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
